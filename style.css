@@ -36,7 +36,6 @@ label {
     color: #777777;
     font-weight: 400;
     font-size: 14px;
-    
 }
 
 select, input {
@@ -60,7 +59,7 @@ input {
 }
 
 button {
-    background: #772FD3;
+    background: #521fb9;
     color: #FFFFFF;
     border-radius: 5px;
     width: 100%; /* Ocupa todo o espaço disponível. */
@@ -81,11 +80,10 @@ button:active {
 }
 
 section {
-    border: 1px solid #772FD3;
+    border: 1px solid #521fb9;
     border-radius: 20px;
     margin-top: 36px;
     padding: 12px;
-
     display: flex;
     flex-direction: column;
     align-items: center;
