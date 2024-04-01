@@ -4,8 +4,7 @@ Projeto realizado nas aulas de JavaScript do DevClub. <br>
 No conversor é possível converter do Real Brasileiro para o Dólar Americano, Euro e Libra. <br>
 
 🛠️ Tecnologias utilizadas:
-- HTML, CSS e JavaScript.
-<br><br>
+- HTML, CSS e JavaScript. <br>
 
 ⚙️ Mudanças:
 
