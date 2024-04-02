@@ -113,21 +113,4 @@ section {
 
 footer {
     margin: 30px 0;
-    color: #FFFFFF;
-    text-align: center;
-    font-size: 16px;
-}
-
-a {
-    text-decoration: none;
-    cursor: pointer;
-    color: #FFFFFF;
-}
-
-a:hover {
-    opacity: 0.6;
-}
-
-a:active {
-    opacity: 0.3;
 }
